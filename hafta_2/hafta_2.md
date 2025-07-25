@@ -527,3 +527,17 @@ while True:
 ```
 ## Expexted Output 
 ![](./Screenshot%20from%202023-08-18%2023-51-27.png)
+
+
+## References
+---
+This project includes code adapted from the following repository:
+
+- https://github.com/ANSANJAY/unix-domain-mux-state-machine
+
+
+---
+
+**Author: Alperen ÖZTAŞ**
+
+---
