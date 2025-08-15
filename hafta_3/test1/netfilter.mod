@@ -1,0 +1,2 @@
+/home/alperen/staj/hafta_3/test1/netfilter.o
+
