@@ -5,7 +5,7 @@ This repo contains:
 * **Kernel module (`pktfilter.c`)**: Hooks **IPv4 PRE\_ROUTING** to inspect **incoming** packets. Drops TCP/UDP packets whose **destination port** matches the configured block port. Keeps atomic counters.
 * **User tool (`user.c`)**: Talks to the module over `/dev/pktfilter` using **ioctl** to set ports, read & clear stats.
 
-> ⚠️ PRE\_ROUTING sees **incoming** traffic on an interface. It does **not** see `localhost (127.0.0.1)` traffic. For local tests, use your real interface IP or the **network namespace** method below.
+> ⚠PRE\_ROUTING sees **incoming** traffic on an interface. It does **not** see `localhost (127.0.0.1)` traffic. For local tests, use your real interface IP or the **network namespace** method below.
 
 ---
 
