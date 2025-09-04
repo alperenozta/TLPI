@@ -4,8 +4,6 @@
 
 # Linux Çekirdeğinde Netfilter ve ioctl ile Paket Filtreleme
 
-Bu doküman, sağladığın `pktfilter.c` modülü örneği üzerinden **Netfilter** ve **ioctl** kavramlarını açıklamaktadır.
-
 ---
 
 ## 1. Genel Bakış
