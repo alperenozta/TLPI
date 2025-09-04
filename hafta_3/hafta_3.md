@@ -1,9 +1,5 @@
 
 
-
-Tamam, yukarıdaki **Netfilter** ve **ioctl** konu anlatımını sana Türkçe olarak yazayım.
-Aynı başlıkları ve Markdown formatını koruyacağım.
-
 ---
 
 # Linux Çekirdeğinde Netfilter ve ioctl ile Paket Filtreleme
